@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeptuneAPI", "NeptuneAPI\NeptuneAPI.csproj", "{2C701612-F781-4918-80BC-E002612F752E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UranusAPI", "UranusAPI\UranusAPI.csproj", "{983D4046-59C1-43FA-B1F0-CD962D6474C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C701612-F781-4918-80BC-E002612F752E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C701612-F781-4918-80BC-E002612F752E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C701612-F781-4918-80BC-E002612F752E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C701612-F781-4918-80BC-E002612F752E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983D4046-59C1-43FA-B1F0-CD962D6474C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983D4046-59C1-43FA-B1F0-CD962D6474C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983D4046-59C1-43FA-B1F0-CD962D6474C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983D4046-59C1-43FA-B1F0-CD962D6474C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56318A83-B8ED-48D9-84CA-E83212138FE1}
+	EndGlobalSection
+EndGlobal
